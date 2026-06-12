@@ -23,3 +23,4 @@ Your goal is to determine which combination of prompting technique + platform pr
 OUTPUT:
 
 RESULT:
+[Prompt Ex 2 (1).pdf](https://github.com/user-attachments/files/28866457/Prompt.Ex.2.1.pdf)
